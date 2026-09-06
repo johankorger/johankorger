@@ -1,8 +1,139 @@
-## Hi there 👋
+# Hey, I'm Johan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johankorger&label=Profile%20views&color=0e75b6&style=flat" alt="johankorger" /> </p>
+### Full-Stack Developer · Mobile · Desktop · Open Source
 
+I build **modern, scalable and polished digital experiences** — from web applications and APIs to mobile and desktop apps.
 
+I enjoy turning complex ideas into **simple, reliable and well-designed products**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="photoshop" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/a87033cb-e69c-4615-b5e0-4ac99c73b9ba.svg" alt="react-native" width="100" height="40"/> </a> <a href="https://reactnavigation.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" alt="react-navigation" width="40" height="40"/> </a> <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="40" height="40"/> </a> <a href="https://docs.expo.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="expo" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" alt="sonarqube" width="60" height="40"/> </a> <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electronjs" width="40" height="40"/> </a> <a href="https://tauri.app/fr/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" alt="tauri" width="40" height="40"/> </a> </p>
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/johankorger)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/johankgr.bsky.social)
+---
+
+## About me
+
+```ts
+const developer = {
+  role: "Full-Stack Developer",
+  focus: [
+    "Web applications",
+    "Mobile applications",
+    "Desktop applications",
+    "APIs & backend architecture"
+  ],
+  mindset: [
+    "Clean code",
+    "Good UX",
+    "Performance",
+    "Scalability"
+  ],
+  currentlyBuilding: "Something awesome ✨"
+};
+```
+
+---
+
+## Tech stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,webpack" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,graphql" />
+</p>
+
+### Mobile & Desktop
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,electron,tauri,expo" />
+</p>
+
+### Databases & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,azure,git" />
+</p>
+
+### Tools & Quality
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,jest,cypress,sonarqube" />
+</p>
+
+---
+
+## What I care about
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 Architecture
+
+Designing applications that stay maintainable as they grow.
+
+</td>
+<td width="50%">
+
+### ⚡ Performance
+
+Fast interfaces, efficient APIs and smooth user experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Product & UX
+
+Technology should feel good to use, not just work.
+
+</td>
+<td width="50%">
+
+### 🧼 Code Quality
+
+Readable code, automated testing and continuous improvement.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Currently
+
+```text
+▸ Building     →  Github Workflow Builder
+▸ Learning     →  AI / Rust
+▸ Exploring    →  AI / Robotics
+▸ Open to      →  Interesting projects & collaborations
+```
+
+---
+
+## Let's connect
+
+If you're building something interesting, feel free to reach out.
+
+<p align="center">
+
+**Let's build something great. ✨**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/johankorger)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/johankgr.bsky.social)
+
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Built with ❤️ and way too much ☕</sub>
+</p>
