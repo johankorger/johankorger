@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johankorger&label=Profile%20views&color=0e75b6&style=flat" alt="johankorger" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johankorger" alt="johankorger" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
