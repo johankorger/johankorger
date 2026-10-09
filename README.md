@@ -6,11 +6,10 @@ I build **modern, scalable and polished digital experiences** — from web appli
 
 I enjoy turning complex ideas into **simple, reliable and well-designed products**.
 
-<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/johankorger)
 [![Bluesky](https://img.shields.io/badge/Bluesky-1185FE?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/johankrg.bsky.social)
----
+
 
 ## About me
 
@@ -32,8 +31,6 @@ const developer = {
   currentlyBuilding: "Something awesome ✨"
 };
 ```
-
----
 
 ## Tech stack
 
@@ -66,8 +63,6 @@ const developer = {
 <p>
   <img src="https://skillicons.dev/icons?i=figma,postman,jest,cypress,sonarqube" />
 </p>
-
----
 
 ## What I care about
 
@@ -106,7 +101,6 @@ Readable code, automated testing and continuous improvement.
 </tr>
 </table>
 
----
 
 ## Currently
 
@@ -116,8 +110,6 @@ Readable code, automated testing and continuous improvement.
 ▸ Exploring    →  AI / Robotics
 ▸ Open to      →  Interesting projects & collaborations
 ```
-
----
 
 ## Let's connect
 
